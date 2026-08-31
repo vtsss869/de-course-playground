@@ -2,7 +2,10 @@
 
 Playground repository for data engineering course exercises.
 
-## Author
+## About Me
 
 **Valeriia Tsymbaliuk**
-Design portfolio: https://valeriiatsss.framer.website/
+
+Designer exploring data engineering.
+
+- 🎨 Design portfolio: https://valeriiatsss.framer.website/
